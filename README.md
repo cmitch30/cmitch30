@@ -1,4 +1,10 @@
-<p align="center"><a href="https://clarkjmitchell.tech/"><img width="80%" alt="Hello, I'm Clark Mitchell" src="./github-header-img.png" /></a></p>
+<p align="center"><a href="https://clarkjmitchell.tech/"><img width="80%" alt="Hello, I'm Clark Mitchell" src="github-header-image.png" /></a></p>
+
+**About Me**
+- 💻 I am a front-end web developer with skills in CSS, HTML, and JavaScript.
+- 🎮 Avid gamer with a passion for both console and pc gaming.
+- 🤖 Robotics enthusiast building Arduino projects in my spare time.
+- ❤️ I love React, and building fun experiments.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmitch30&theme=midnight-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmitch30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
