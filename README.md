@@ -1,4 +1,4 @@
-<p align="center"><a href="https://clarkjmitchell.tech/"><img width="80%" alt="Hello, I'm Clark Mitchell" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://clarkjmitchell.tech/"><img width="80%" alt="Hello, I'm Clark Mitchell" src="./github-header-img.png" /></a></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmitch30&theme=midnight-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmitch30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
