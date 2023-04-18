@@ -1,5 +1,4 @@
 <p align="center"><a href="https://clarkjmitchell.tech/"><img width="80%" alt="Hello, I'm Clark Mitchell" src="github-header-image.png" /></a></p>
-![Header](github-header-image.png)
 
 **About Me**
 - 💻 I am a front-end web developer with skills in CSS, HTML, and JavaScript.
