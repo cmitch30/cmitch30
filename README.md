@@ -1,6 +1,6 @@
 <p align="center"><a href="https://clarkjmitchell.tech/"><img width="80%" alt="Hello, I'm Clark Mitchell" src="github-header-image.png" /></a></p>
 
-<h1>Hi, I'm Clark! <br/><a href="https://github.com/cmitch30">Programmer</a>, <a href="https://www.linkedin.com/in/clarkjmitchell/">Cybersecurity Professional</a>
+<h1>Hi, I'm Clark! <br/> <a href="https://github.com/cmitch30">Programmer</a>, <a href="https://www.linkedin.com/in/clarkjmitchell/">Cybersecurity Professional</a>
 - 💻 I am a front-end web developer with skills in CSS, HTML, and JavaScript.
 - 🎮 Avid gamer with a passion for both console and pc gaming.
 - 🤖 Robotics enthusiast building Arduino projects in my spare time.
