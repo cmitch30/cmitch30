@@ -15,7 +15,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
   - [Course Client](https://github.com/cmitch30/full_stack_app)
   - [Restaraunt Home Page](https://github.com/cmitch30/gerich-restaurant)
   - [Gpt3 AI Homepage](https://github.com/cmitch30/Gpt3-cjm)
@@ -23,6 +22,11 @@
   - [React Gallery](https://github.com/cmitch30/gallery_app)
   - [Phrase Hunter](https://github.com/cmitch30/Phrase_Hunter)
   - [Interactive Form](https://github.com/cmitch30/Interactive_form)
+
+<h2> 📄 Certifications:</h2>
+
+   - [Google Cybersecuirty Professional](https://coursera.org/share/3a1fa4c62ed089eeed2181bc4dc702b8)
+   - [Full Stack JavaScript Developer](https://github.com/cmitch30/cmitch30/files/13169199/certificate.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -33,8 +37,6 @@
 [linkedin]: https://linkedin.com/in/clarkjmitchell
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
